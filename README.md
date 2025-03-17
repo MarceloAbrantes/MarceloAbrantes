@@ -14,3 +14,6 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAbrantes&layout=compact&theme=dark)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloAbrantes&theme=dark)
+![Metrics](https://metrics.lecoq.io/MarceloAbrantes?template=classic&repositories.forks=true&isocalendar=true&languages=1&introduction=true)
+
