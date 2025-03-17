@@ -6,5 +6,5 @@
 🎯 Focado em [Objetivo profissional]
 
 ## 📈 GitHub Stats
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarceloAbrantes&show_icons=true&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAbrantes&layout=compact&theme=dark)
